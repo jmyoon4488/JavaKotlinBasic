@@ -5,7 +5,7 @@
 1. ~~개발환경~~
 1. 기본문법 - [BasicSyntax](./src/main/kotlin/Study_04_BasicSyntax/BasicSyntax.kt)
 1. 변수와 자료형 - [VariableAndType](./src/main/kotlin/Study_05_VariableAndType/VariableAndType.kt)
-1. 함수 - [StudyFunction](./src/main/kotlin/Study_06_Function/Function.kt)
+1. 함수 - [Function](./src/main/kotlin/Study_06_Function/Function.kt)
 1. 연산자
 1. IF문
 1. When
@@ -33,9 +33,9 @@
 1. null 안정성을 위한 형변환
 1. 열거형
 1. sealed Class
-1. 리플렉션 - [StudyFunction](./src/main/kotlin/Study_34_Reflection/Reflection.kt)
-1. 연산자 오버로딩 - [StudyFunction](./src/main/kotlin/Study_35_OperatorOverloading/OperatorOverloading.kt)
-1. 함수형 프로그래밍 - [StudyFunction](./src/main/kotlin/Study_36_FunctionalProgramming/FunctionalProgramming.kt)
+1. 리플렉션 - [Reflection](./src/main/kotlin/Study_34_Reflection/Reflection.kt)
+1. 연산자 오버로딩 - [OperatorOverloading](./src/main/kotlin/Study_35_OperatorOverloading/OperatorOverloading.kt)
+1. 함수형 프로그래밍 - [FunctionalProgramming](./src/main/kotlin/Study_36_FunctionalProgramming/FunctionalProgramming.kt)
 1. 익명함수
 1. 인라인 함수
 1. 확장함수

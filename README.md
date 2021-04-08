@@ -36,12 +36,12 @@
 1. 리플렉션 - [Reflection](./src/main/kotlin/Study_34_Reflection/Reflection.kt)
 1. 연산자 오버로딩 - [OperatorOverloading](./src/main/kotlin/Study_35_OperatorOverloading/OperatorOverloading.kt)
 1. 함수형 프로그래밍 - [FunctionalProgramming](./src/main/kotlin/Study_36_FunctionalProgramming/FunctionalProgramming.kt)
-1. 익명함수
-1. 인라인 함수
-1. 확장함수
-1. Infix 함수
-1. 고차함수
-1. 배열
+1. 익명함수 - [AnonymousFunction](./src/main/kotlin/Study_37_AnonymousFunction/AnonymousFunction.kt)
+1. 인라인 함수 - [InlineFunction](./src/main/kotlin/Study_38_InlineFunction/InlineFunction.kt)
+1. 확장함수 - [ExtensionFunction](./src/main/kotlin/Study_39_ExtensionFunction/ExtensionFunction.kt)
+1. Infix 함수 - [InfixFunction](./src/main/kotlin/Study_40_InFixFunction/InfixFunction.kt)
+1. 고차함수 - [HighOrderFunction](./src/main/kotlin/Study_41_HighOrderFunction/HighOrderFunction.kt)
+1. 배열 - [Array](./src/main/kotlin/Study_42_Array/Array.kt)
 1. 문자열
 1. List
 1. Map

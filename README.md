@@ -47,3 +47,7 @@
 1. Map - [Map](./src/main/kotlin/basiclevel/Study_45_Map/Map.kt)
 1. Set - [Set](./src/main/kotlin/basiclevel/Study_46_Set/Set.kt)
 1. 예외처리 - [Exception](./src/main/kotlin/basiclevel/Study_47_Exception/Exception.kt)
+
+# Kotlin Middle Level Study
+
+1. Abstract - [Abstract](./src/main/kotlin/middlelevel/Study_01_Absract/MiddleAbstractClass.kt)

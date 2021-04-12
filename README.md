@@ -51,3 +51,5 @@
 # Kotlin Middle Level Study
 
 1. Abstract - [Abstract](./src/main/kotlin/middlelevel/Study_01_Absract/MiddleAbstractClass.kt)
+1. Interface & Property - [Interface & Property](./src/main/kotlin/middlelevel/Study_02_InterfaceAndProperty/InterfaceAndProperty.kt)
+1. Overloading - [Overloading](./src/main/kotlin/middlelevel/Study_03_Overloading/Overloading.kt)

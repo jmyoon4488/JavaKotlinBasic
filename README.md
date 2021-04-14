@@ -54,3 +54,4 @@
 1. Interface & Property - [Interface & Property](./src/main/kotlin/middlelevel/Study_02_InterfaceAndProperty/InterfaceAndProperty.kt)
 1. Overloading - [Overloading](./src/main/kotlin/middlelevel/Study_03_Overloading/Overloading.kt)
 1. Extension & Property - [Extension & Property](./src/main/kotlin/middlelevel/Study_04_ExtensionAndProperty/ExtensionAndProperty.kt)
+1. Companion & Inline Function - [Companion & Inline Function](./src/main/kotlin/middlelevel/Study_05_CompanionAndInline/CompanionAndInline.kt)

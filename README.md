@@ -55,3 +55,4 @@
 1. Overloading - [Overloading](./src/main/kotlin/middlelevel/Study_03_Overloading/Overloading.kt)
 1. Extension & Property - [Extension & Property](./src/main/kotlin/middlelevel/Study_04_ExtensionAndProperty/ExtensionAndProperty.kt)
 1. Companion & Inline Function - [Companion & Inline Function](./src/main/kotlin/middlelevel/Study_05_CompanionAndInline/CompanionAndInline.kt)
+1. Const & lateinit - [Const & lateinit](./src/main/kotlin/middlelevel/Study_06_ConstAndLateinit/ConstAndLateInit.kt)

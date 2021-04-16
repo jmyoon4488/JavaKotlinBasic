@@ -57,3 +57,4 @@
 1. Companion & Inline Function - [Companion & Inline Function](./src/main/kotlin/middlelevel/Study_05_CompanionAndInline/CompanionAndInline.kt)
 1. Const & lateinit - [Const & lateinit](./src/main/kotlin/middlelevel/Study_06_ConstAndLateinit/ConstAndLateInit.kt)
 1. Receiver with Extends - [Receiver with Extends](./src/main/kotlin/middlelevel/Study_07_ExtendsWithReceiver/ExtendsWithReceiver.kt)
+1. Data Class - [Data Class](./src/main/kotlin/middlelevel/Study_08_DataClass/DataClass.kt)

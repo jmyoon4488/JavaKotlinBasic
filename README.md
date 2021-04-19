@@ -59,3 +59,4 @@
 1. Receiver with Extends - [Receiver with Extends](./src/main/kotlin/middlelevel/Study_07_ExtendsWithReceiver/ExtendsWithReceiver.kt)
 1. Data Class - [Data Class](./src/main/kotlin/middlelevel/Study_08_DataClass/DataClass.kt)
 1. Nested, Inner Class - [Nested, Inner Class](./src/main/kotlin/middlelevel/Study_09_NestedAndInnerClass/NestedAndInnerClass.kt)
+1. Collection Type - [Collection Type](./src/main/kotlin/middlelevel/Study_10_Collections/CollectionsType.kt)

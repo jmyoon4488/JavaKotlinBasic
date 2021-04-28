@@ -62,3 +62,4 @@
 1. Collection Type - [Collection Type](./src/main/kotlin/middlelevel/Study_10_Collections/CollectionsType.kt)
 1. Iterator - [Iterator](./src/main/kotlin/middlelevel/Study_11_IteratorInterface/IteratorInterface.kt)
 1. Enum Class - [Enum Class](./src/main/kotlin/middlelevel/Study_12_EnumClass/EnumClass.kt)
+1. Sealed Class - [Sealed Class](./src/main/kotlin/middlelevel/Study_13_SealedClass/SealedClass.kt)

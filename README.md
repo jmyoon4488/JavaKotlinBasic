@@ -65,3 +65,4 @@
 1. Sealed Class - [Sealed Class](./src/main/kotlin/middlelevel/Study_13_SealedClass/SealedClass.kt)
 1. Lambda - [Lambda](./src/main/kotlin/middlelevel/Study_14_Lambda/Lambda.kt)
 1. High Order Function - [High Order Function](./src/main/kotlin/middlelevel/Study_15_HighOrderFunction/HighOrderFunction.kt)
+1. Filtering - [Filtering](./src/main/kotlin/middlelevel/Study_16_Filter/FilterFunction.kt)

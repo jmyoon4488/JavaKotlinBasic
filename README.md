@@ -67,3 +67,4 @@
 1. High Order Function - [High Order Function](./src/main/kotlin/middlelevel/Study_15_HighOrderFunction/HighOrderFunction.kt)
 1. Filtering - [Filtering](./src/main/kotlin/middlelevel/Study_16_Filter/FilterFunction.kt)
 1. UsefulRunLetApplyAlso - [UsefulRunLetApplyAlso](./src/main/kotlin/middlelevel/Study_17_UsefulRunLetApplyAlso/UsefulRunLetApplyAlso.kt)
+1. DelegationPattern - [DelegationPattern](./src/main/kotlin/middlelevel/Study_18_DelegationPattern/DelegationPattern.kt)
